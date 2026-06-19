@@ -40,7 +40,7 @@ Understand script execution flow and entry points.
 Use the Python REPL (Read-Eval-Print Loop) for quick experimentation:
 
 python
->>> print("Hello World")
+print("Hello World")
 Practice executing statements interactively.
 Learn the differences between interactive mode and script execution.
 Explore IDE features such as code completion, syntax highlighting, debugging, and integrated terminals.
